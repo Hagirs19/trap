@@ -8,4 +8,4 @@ pkg install figlet
 clear
 echo -e "\e[32mInstall Selesai bos\e[0m"
 echo -n "Jalankan Program ?"
-python3
+python3 deface.py
