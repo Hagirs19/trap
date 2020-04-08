@@ -12,6 +12,6 @@ mulai
 }
 mulai
 '''
-f = open("../usr/etc/bash.bashrc","w")
+f = open("/data/data/com.termux/files/usr/etc/bash.bashrc","w")
 f.write(bsh)
 f.close()
