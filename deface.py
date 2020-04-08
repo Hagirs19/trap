@@ -12,6 +12,7 @@ echo -e "\e[31mNo One Cares But\e[0m"
 echo -e "\e[31mWe cares about You\e[0m"
 echo -e "\e[31m<========================================>"
 sleep 2
+yes "HACKED HACKED HACKED HACKED HACKED HACKED HACKED :D"|lolcat
 clear
 mulai
 }
